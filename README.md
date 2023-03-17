@@ -1,3 +1,5 @@
+ChatGPT url: https://chat.openai.com/chat/fa9a9519-451a-49a1-8789-7450e5c1a8d0
+
 # 第四屆語言分析黑客松 [插電場] - 測試語料與程序說明
 
 ## Task
