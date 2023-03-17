@@ -1,5 +1,7 @@
 ChatGPT url: https://chat.openai.com/chat/fa9a9519-451a-49a1-8789-7450e5c1a8d0
 
+https://hackmd.io/@XYQZ/IOL2021#%E6%89%80%E4%BB%A5%E6%98%AF%E6%AF%94%E8%AA%B0%E6%9C%83%E6%AF%94%E8%BC%83%E5%A4%9A%E8%AA%9E%E8%A8%80%E5%97%8E
+
 # 第四屆語言分析黑客松 [插電場] - 測試語料與程序說明
 
 ## Task
